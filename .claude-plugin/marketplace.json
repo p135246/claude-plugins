@@ -11,8 +11,8 @@
     {
       "name": "computational-research",
       "source": {
-        "source": "github",
-        "repo": "p135246/computational-research"
+        "source": "url",
+        "url": "https://github.com/p135246/computational-research.git"
       },
       "description": "Scaffold Wolfram computational research projects and create Mathematica notebooks.",
       "version": "1.0.4",
