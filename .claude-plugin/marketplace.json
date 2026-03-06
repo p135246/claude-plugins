@@ -15,7 +15,7 @@
         "url": "https://github.com/p135246/computational-research.git"
       },
       "description": "Scaffold Wolfram computational research projects and create Mathematica notebooks.",
-      "version": "1.0.6",
+      "version": "1.0.7",
       "author": {
         "name": "Pavel Hajek",
         "email": "p135246@gmail.com"
