@@ -1,18 +1,18 @@
 {
-  "name": "p135246",
+  "name": "WolframInstitute",
   "owner": {
-    "name": "Pavel Hajek",
+    "name": "Wolfram Institute",
     "email": "p135246@gmail.com"
   },
   "metadata": {
-    "description": "Claude Code plugins by Pavel Hajek"
+    "description": "Claude Code plugins by Wolfram Institute"
   },
   "plugins": [
     {
       "name": "computational-research",
       "source": {
         "source": "url",
-        "url": "https://github.com/p135246/computational-research.git"
+        "url": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch.git"
       },
       "description": "Scaffold Wolfram computational research projects and create Mathematica notebooks.",
       "version": "1.0.9",
@@ -20,7 +20,7 @@
         "name": "Pavel Hajek",
         "email": "p135246@gmail.com"
       },
-      "homepage": "https://github.com/p135246/computational-research",
+      "homepage": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch",
       "license": "MIT",
       "keywords": ["wolfram", "mathematica", "research", "notebook", "latex"],
       "category": "research"
