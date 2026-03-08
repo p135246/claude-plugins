@@ -14,15 +14,15 @@
         "source": "url",
         "url": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch.git"
       },
-      "description": "Scaffold Wolfram computational research projects and create Mathematica notebooks.",
-      "version": "1.1.0",
+      "description": "Scaffold computational research projects exploring scientific topics through Wolfram models.",
+      "version": "1.1.1",
       "author": {
         "name": "Pavel Hajek",
         "email": "p135246@gmail.com"
       },
       "homepage": "https://github.com/WolframInstitute/ClaudePluginComputationalResearch",
       "license": "MIT",
-      "keywords": ["wolfram", "mathematica", "research", "notebook", "latex"],
+      "keywords": ["wolfram", "mathematica", "research", "notebook", "latex", "wolfram-physics", "hypergraph"],
       "category": "research"
     }
   ]
